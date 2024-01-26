@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://valioso.biz/superjp/sitemap.xml
+Sitemap: http://valioso.biz/gilajp/sitemap.xml
+Sitemap: http://valioso.biz/gojekpot/sitemap.xml
+Sitemap: http://valioso.biz/winstrike69/sitemap.xml
+Sitemap: http://valioso.biz/slotgacor/sitemap.xml
+Sitemap: http://valioso.biz/slotzeus/sitemap.xml
+Sitemap: http://valioso.biz/kaptenjackpot/sitemap.xml
+Sitemap: http://valioso.biz/boosterjp/sitemap.xml
+Sitemap: http://valioso.biz/kerajaanslot/sitemap.xml
+Sitemap: http://valioso.biz/pakong86/sitemap.xml
+Sitemap: http://valioso.biz/viral88/sitemap.xml
+Sitemap: http://valioso.biz/clan4d/sitemap.xml
+Sitemap: http://valioso.biz/dinamit4d/sitemap.xml
+Sitemap: http://valioso.biz/elang212/sitemap.xml
+Sitemap: http://valioso.biz/gori77/sitemap.xml
+Sitemap: http://valioso.biz/viral4d/sitemap.xml
+Sitemap: http://valioso.biz/playground88/sitemap.xml
